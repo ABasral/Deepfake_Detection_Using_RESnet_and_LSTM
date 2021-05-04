@@ -16,6 +16,7 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 Django==3.0.5
+dlib==19.19.0
 docutils==0.15.2
 entrypoints==0.3
 enum-compat==0.0.3
