@@ -52,7 +52,5 @@ Django >= v3.0
 ![](results/op3.png)
 ![](results/op4.png)
 
-# Read More about this project and it's working at
-[Medium Blog](https://ayushbasral.medium.com/deepfake-detection-using-resnxt-and-lstm-bcc08c086f84)
   
 
