@@ -19,7 +19,7 @@ Django >= v3.0
 
 ### Step 1 : Clone the repo 
 
-`git clone https://github.com/ABasral/Deepfake_Detection_Using_RESnet_and_LSTM.git`
+`git clone https://github.com/ripjeetS/Deepfake_Detection_Using_RESnet_and_LSTM.git`
 
 ### Step 2: Create virtualenv (optional)
 
